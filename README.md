@@ -1,1 +1,1 @@
-# proj-nor
+hello world/myname is norah
